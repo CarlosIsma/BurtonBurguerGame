@@ -1,1 +1,3 @@
-# BurtonBurguerGame1
+# BurtonBurguerGame
+
+Juego Para Todos
